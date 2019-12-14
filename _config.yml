@@ -1,5 +1,5 @@
-layout: sidebar
-style: light
+layout: stacked
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -28,31 +28,29 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
-  # keybase: your_username
-  # linkedin: your_username
-  # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
-  # unsplash: your_username
-  # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+social_media:
+  behance: givonaldoc2cf7
+  facebook: gilvonaldoc
+  instagram: gilvonaldo_cavalcanti
+  linkedin: gilvonaldocavalcanti/
+  stackoverflow: 12178768/gilvonaldo-a-s-cavalcanti
+  telegram: gilvonaldo
+  twitter: gilvonaldoc
+  youtube: channel/UCkXKu4NPZDQU-AhCcGK1m1A?view_as=subscriber
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Django
+    web_url: https://www.djangoproject.com/
+    image_url: https://symbols.getvecta.com/stencil_78/77_django.fffc5e761b.svg
 
-  - name: Web design
+  - name: Ionic
+    web_url: https://ionicframework.com/
+    image_url: https://symbols.getvecta.com/stencil_25/60_ionic.0adad41642.svg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Flutter
+    web_url: https://flutter.io/
+    image_url: https://symbols.getvecta.com/stencil_80/63_flutter-icon.dec5447e22.svg
+
+  - name: Angular
+    web_url: https://angular.io/
+    image_url: https://symbols.getvecta.com/stencil_25/9_angular.bd98f4bded.svg
