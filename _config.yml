@@ -1,5 +1,5 @@
 layout: stacked
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -36,21 +36,31 @@ social_media:
   stackoverflow: 12178768/gilvonaldo-a-s-cavalcanti
   telegram: gilvonaldo
   twitter: gilvonaldoc
-  youtube: channel/UCkXKu4NPZDQU-AhCcGK1m1A?view_as=subscriber
+  youtube: channel/UCkXKu4NPZDQU-AhCcGK1m1A
+
+# Links disponíveis em: https://devicon.dev/
 
 topics:
+  - name: Python
+    web_url: https://www.python.org/
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+
+  - name: Java
+    web_url: https://www.oracle.com/br/java/
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
+
   - name: Django
     web_url: https://www.djangoproject.com/
-    image_url: https://symbols.getvecta.com/stencil_78/77_django.fffc5e761b.svg
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg
 
-  - name: Ionic
-    web_url: https://ionicframework.com/
-    image_url: https://symbols.getvecta.com/stencil_25/60_ionic.0adad41642.svg
+  - name: JavaScript
+    web_url: https://www.javascript.com/
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
 
   - name: Flutter
-    web_url: https://flutter.io/
-    image_url: https://symbols.getvecta.com/stencil_80/63_flutter-icon.dec5447e22.svg
+    web_url: https://flutter.dev/
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg
 
-  - name: Angular
-    web_url: https://angular.io/
-    image_url: https://symbols.getvecta.com/stencil_25/9_angular.bd98f4bded.svg
+  - name: Android
+    web_url: https://www.android.com/intl/pt-BR_br/
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg
